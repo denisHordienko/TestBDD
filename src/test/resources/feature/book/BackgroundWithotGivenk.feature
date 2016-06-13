@@ -15,7 +15,7 @@ And kjsdfhk
 @SC_550715966
 Scenario: 
 Given asd
-And kjsdfhk
+And kjsdfhk Asddff
 
 
 @SC_152551732
