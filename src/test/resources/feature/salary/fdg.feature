@@ -4,6 +4,11 @@ Feature: sfgs
 Background:
 Given gherkin parse must return error of parsing
 
+
+Scenario: 
+Given gherkin parse must return error of parsing
+
+
 @SC_551036998
 Scenario: 
 Given gherkin parse must return error of parsing
