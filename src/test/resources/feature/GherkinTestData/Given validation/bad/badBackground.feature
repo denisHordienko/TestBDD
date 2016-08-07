@@ -3,11 +3,13 @@ Feature: background and scenario without given
 Check Background without given keyword
 
 Background: 
+
 When Background starts without given keyword
 And in no one of scenario didn't started
 
 @SC_981610966
 Scenario: 
+sss
 When Background starts without given keyword
 And in no one of scenario didn't started
 
