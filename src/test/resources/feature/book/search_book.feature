@@ -3,15 +3,17 @@ Feature: Book search
   To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book.
 
 Background: 
-Given a $100 microwave was sold on 2015-11-03
-And today is 2015-11-18
 
-@SC_980427548
-Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
 @SC_08171133
+Scenario: 
+dddd
+Given a $100 microwave was sold on 2015-11-03
+And today is 2015-11-18
+
+@SC_980427548
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
@@ -23,6 +25,7 @@ And today is 2015-11-18
 
 @SC_153141034
 Scenario: 
+sdfsdg
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
@@ -33,6 +36,7 @@ And today is 2015-11-18
 
 @SC_03517555
 Scenario: 
+trr
 Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 
