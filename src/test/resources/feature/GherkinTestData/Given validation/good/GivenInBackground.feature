@@ -3,6 +3,7 @@ Feature: Given in background
   Check Background without given keyword
 
 Background: 
+
 Given this story has background with given keyword
 
 @SC_982961585

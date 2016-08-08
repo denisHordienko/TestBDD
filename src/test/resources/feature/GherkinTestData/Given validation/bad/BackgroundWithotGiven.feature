@@ -3,6 +3,7 @@ Feature: Given in only one scenario
   Check Background without given keyword
 
 Background: 
+
 Given asd
 And kjsdfhk
 

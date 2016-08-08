@@ -7,23 +7,27 @@ Background:
 Given asd
 And kjsdfhk
 
-@SC_981309605
+@SC_977966598
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_08469193
+@SC_07719043
 Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_153414945
+@SC_550715966
 Scenario: 
-ыыыы
+Given asd
+And kjsdfhk Asddff
+
+@SC_152551732
+Scenario: 
 Given asd
 And kjsdfhk
 
-@SC_846406640
+@SC_846203515
 Scenario: 
 Given asd
 And kjsdfhk
