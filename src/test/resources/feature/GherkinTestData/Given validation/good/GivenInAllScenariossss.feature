@@ -6,6 +6,12 @@ Background:
 
 When in this story background hasn't given keyword
 
+@SC_521577251 @Critical @Test_1
+Scenario: Check scenario
+ddddddd
+Given this scenario must started from given keyword
+Then gherkin parser must be ok with parsing
+
 @SC_982153617
 Scenario: 
 When in this story background hasn't given keyword
@@ -29,11 +35,6 @@ When in this story background hasn't given keyword
 @SC_03885230
 Scenario: 
 When in this story background hasn't given keyword
-
-@Critical @Test_1 @SC_521577251
-Scenario: Check scenario
-Given this scenario must started from given keyword
-Then gherkin parser must be ok with parsing
 
 @Medium @Test_2 @SC_521580252
 Scenario Outline: Check another scenario
