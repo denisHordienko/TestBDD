@@ -17,8 +17,9 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_983959782
+@SC_10217543
 Scenario: 
+dddddd
 Given the salary management system is initialized with the following data
 |id|user|salary|
 |1|donald|60000.0|
@@ -29,11 +30,9 @@ Given the salary management system is initialized with the following data
 |6|minnie|62000.0|
 |7|mickey|51000.0|
 |8|fethry|66500.0|
-
-When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
-@SC_10217543
+@SC_983959782
 Scenario: 
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -136,7 +135,8 @@ Examples:
 
 
 @SC_935245373
-Scenario: 4
+Scenario: 4ddd
+sssss
 When sldfkg
 And sdfg
 
