@@ -1,4 +1,4 @@
-@Story_Good @ST_521575251
+@ST_521575251
 Feature: Given in all scenariosdууdddd
   Check Background without given keyword
 
