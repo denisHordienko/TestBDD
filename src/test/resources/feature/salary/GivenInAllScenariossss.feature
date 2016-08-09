@@ -6,11 +6,12 @@ Background:
 
 When in this story background hasn't given keyword
 
-@SC_982153617
-Scenario: 
+@SC_09286356
+Scenario: This is new name
+Given asdfddd
 When in this story background hasn't given keyword
 
-@SC_09286356
+@SC_982153617
 Scenario: 
 When in this story background hasn't given keyword
 
