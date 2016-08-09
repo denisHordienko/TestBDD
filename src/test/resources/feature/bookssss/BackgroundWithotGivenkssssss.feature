@@ -2,7 +2,7 @@
 Feature: Given in only one scenariolfff
 Check Background without given keywordjheeeeeee
 
-Background: 
+Background: This is new name for bg
 eeeee
 Given asdffff
 And kjsdfhk
