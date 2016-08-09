@@ -5,7 +5,7 @@ Check Background without given keywordjheeeeeee
 Background: This is new name for bg
 this is new descr
 Given asdffff
-And kjsdfhk
+And and and
 
 @SC_977966598
 Scenario: 
