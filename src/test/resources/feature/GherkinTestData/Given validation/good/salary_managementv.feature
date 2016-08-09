@@ -30,6 +30,7 @@ Given the salary management system is initialized with the following data
 |6|minnie|62000.0|
 |7|mickey|51000.0|
 |8|fethry|66500.0|
+
 Then the payroll for the employee with id '3' should display a salary of 57750
 
 @SC_983959782
