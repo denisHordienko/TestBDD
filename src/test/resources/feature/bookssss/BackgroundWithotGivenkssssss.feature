@@ -7,7 +7,7 @@ this is new descr
 Given asdffff
 And and and
 
-@SC_977966598
+@SC_977966598 @new-tags-sc
 Scenario: 
 eeeeeees
 Given asdrrrrrrrr
