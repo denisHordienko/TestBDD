@@ -1,4 +1,4 @@
-@Story_Bad @kj @ST_254740702
+@ST_254740702 @Story_Bad
 Feature: Given in only one scenariol
 Check Background without given keywordjh
 
