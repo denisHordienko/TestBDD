@@ -7,12 +7,6 @@ this is new descr
 Given asdffff
 And and and
 
-@SC_10 @new-tags-sc
-Scenario: 
-eeeeeees
-Given asdrrrrrrrr
-And kjsdfhk
-
 @SC_15 @Critical @Test_1
 Scenario: Check scenario
 Given asd
