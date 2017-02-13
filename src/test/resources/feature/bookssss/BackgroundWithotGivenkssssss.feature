@@ -13,11 +13,6 @@ eeeeeees
 Given asdrrrrrrrr
 And kjsdfhk
 
-@SC_11
-Scenario: 
-Given asd
-And kjsdfhk
-
 @SC_15 @Critical @Test_1
 Scenario: Check scenario
 Given asd
