@@ -6,10 +6,6 @@ Background:
 
 Given this story has background with given keyword
 
-@SC_25
-Scenario: 
-Given this story has background with given keyword
-
 @SC_26
 Scenario: 
 Given this story has background with given keyword
