@@ -18,11 +18,6 @@ Scenario:
 Given asd
 And kjsdfhk
 
-@SC_12
-Scenario: 
-Given asd
-And kjsdfhk Asddff
-
 @SC_15 @Critical @Test_1
 Scenario: Check scenario
 Given asd
