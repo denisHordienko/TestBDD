@@ -6,10 +6,6 @@ Background:
 
 Given this story has background with given keyword
 
-@SC_30
-Scenario: 
-Given this story has background with given keyword
-
 @SC_31 @Critical @Test_1
 Scenario: Check background
 When scenario not necessary must started from  given keyword
