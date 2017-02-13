@@ -17,12 +17,6 @@ Scenario:
 Given asd
 And kjsdfhk
 
-@SC_20
-Scenario: 
-ыыыы
-Given asd
-And kjsdfhk
-
 @SC_22 @Critical @Test_1
 Scenario: Check scenario
 Given asd
