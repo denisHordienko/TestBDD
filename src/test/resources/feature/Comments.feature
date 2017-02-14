@@ -10,11 +10,9 @@ Given a simple data table
 #comment beetwin steplines
 Given a simple data table
 |foo|bar|
-
-#comment in datatable
 |boz|boo|
 #comment in datatable
-
+#comment in datatable
 And a data table with a single cell
 """
 doccoment									
