@@ -9,10 +9,10 @@ Scenario: minimalistic
 Given a simple data table
 #comment beetwin steplines
 Given a simple data table
-#comment in datatable
 |foo|bar|
-#comment in datatable
 |boz|boo|
+#comment in datatable
+#comment in datatable
 #comment in datatable
 And a data table with a single cell
 """
