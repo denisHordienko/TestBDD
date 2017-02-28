@@ -12,8 +12,8 @@ Given a simple data table
 Given a simple data table
 |foo|bar|
 #comment
-|boz|boo|
 #comment in datatable
+|boz|boo|
 #comment in datatable
 And a data table with a single cell
 """
