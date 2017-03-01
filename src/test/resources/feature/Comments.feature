@@ -1,10 +1,10 @@
-@ST_10 @ex_tag
+@ST_18 @ex_tag
 Feature: Comments
 
 #comment in description							
 
 
-@SC_44 @ex_tag
+@SC_56 @ex_tag
 Scenario: minimalistic
 #comment in scenario description
 Given a simple data table
@@ -22,7 +22,7 @@ doccoment
 """
 And a data table with different fromatting
 
-@SC_45 @ex_tag2
+@SC_57 @ex_tag2
 Scenario Outline: the outline
 #comment in scenario outline description
 Given the <two>
