@@ -15,4 +15,3 @@ Given the salary management system is initialized with the following data1
 |8|fethry|66500.0|
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
-
