@@ -1,4 +1,4 @@
-@ST_32 @Story_BookSearch
+@ST_36 @Story_BookSearch
 Feature: Salary Management
 
 Background: 
