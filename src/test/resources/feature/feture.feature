@@ -1,2 +1,2 @@
 @ST_39
-Feature: feture to delete
+Feature: feature to delete
