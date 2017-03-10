@@ -1,7 +1,7 @@
-@ST_40
+@ST_41
 Feature: 
 
-@SC_108
-Scenario: new Feature
+@SC_109
+Scenario: scenario
 Given minimal
 Then minimal
