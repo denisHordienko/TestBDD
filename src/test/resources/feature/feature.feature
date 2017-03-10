@@ -1,7 +1,7 @@
-@ST_39
-Feature: feature to delete
+@ST_40
+Feature: 
 
-@SC_107 @tag1
-Scenario: Scenario
+@SC_108
+Scenario: new Feature
 Given minimal
 Then minimal
