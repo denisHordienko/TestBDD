@@ -1,7 +1,7 @@
-@ST_41
+@ST_42
 Feature: 
 
-@SC_109
+@SC_110
 Scenario: scenario
 Given minimal
-Then minimal
+Then minimal one
