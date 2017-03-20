@@ -1,8 +1,8 @@
-@ST_19
+@ST_54
 Feature: DocString variations
 Feature which leads to this issue 
 
-@SC_58
+@SC_169
 Scenario: 
 Given a simple DocString
 """
