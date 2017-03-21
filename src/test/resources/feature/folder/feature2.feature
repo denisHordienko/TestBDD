@@ -1,4 +1,4 @@
-@ST_58
+
 Feature: Salary Management
 
 Background: 
