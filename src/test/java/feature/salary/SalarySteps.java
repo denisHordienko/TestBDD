@@ -42,4 +42,9 @@ public class SalarySteps {
 	public void save_changes(int arg1) throws Throwable {
 		//TODO: add Table
 	}
+	
+	@When("^this also must be re-stored on GIT!!!!$")
+	public void save_changes__dsac(int arg1) throws Throwable {
+		//TODO: add Table
+	}
 }
