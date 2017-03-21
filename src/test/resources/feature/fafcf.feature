@@ -1,2 +1,7 @@
 @ST_70
-Feature:
+Feature: 
+
+@SC_194
+Scenario: 
+Given minimal
+Then minimal
