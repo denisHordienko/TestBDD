@@ -37,4 +37,10 @@ public class SalarySteps {
 	public void the_boss_increases_the_salary_for_the_user_with_id_id_by_(int arg1) throws Throwable {
 		//TODO: add Table
 	}
+
+	@When("^the boss increases the salary for the employee with id '(\\d+)' by (\\d+)%$")
+	public void theBossIncreasesTheSalaryForTheEmployeeWithIdBy(int arg0, int arg1) throws Throwable {
+		// Write code here that turns the phrase above into concrete actions
+		throw new PendingException();
+	}
 }
