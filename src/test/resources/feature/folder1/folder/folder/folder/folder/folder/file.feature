@@ -1,7 +1,7 @@
-@ST_690
+@ST_7
 Feature: 
 
-@SC_3005
+@SC_12
 Scenario: 
 Given minimal
 Then minimal

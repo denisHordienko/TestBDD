@@ -1,7 +1,7 @@
-@ST_689
+@ST_5
 Feature: rregreg
 
-@SC_3004
+@SC_8
 Scenario: 
 Given minimal
 Then minimal
